@@ -1,0 +1,10 @@
+# Place files
+/*.rbxl
+/*.rbxlx
+
+# Roblox Studio lock files
+/*.rbxl.lock
+/*.rbxlx.lock
+
+# Luau LSP sourcemap
+sourcemap.json
